@@ -1,2 +1,2 @@
-# Grind
-It's grid time!
+# It's grid time!
+ 
